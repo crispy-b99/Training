@@ -1,0 +1,2 @@
+# Training
+Training course projects
